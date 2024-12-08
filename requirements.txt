@@ -1,0 +1,5 @@
+# Ollama library for structured outputs
+ollama
+# Pydantic for JSON schema validation and serialization
+pydantic
+requests
